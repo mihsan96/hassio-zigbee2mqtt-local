@@ -90,5 +90,5 @@
     "watchdog": "str?",
     "force_onboarding": "bool?"
   },
-  "image": "ghcr.io/zigbee2mqtt/zigbee2mqtt-{arch}"
+  "image": "ghcr.io/tostmann/zigbee2mqtt-esp32"
 }
